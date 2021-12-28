@@ -1,3 +1,5 @@
+⚠️ Original project outdated.
+
 # React: Personal Site
 
 This project is an updated version of [Personal Site](https://github.com/ChristianVillalba/personal-site)
